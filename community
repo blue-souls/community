@@ -15,4 +15,3 @@ then
 else
 	echo "Kill previous process failed."
 fi
-1
